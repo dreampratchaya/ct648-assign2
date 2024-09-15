@@ -17,6 +17,5 @@ sudo docker run -d -p 80:3000 bun1
 ```
 
 IP ของ server
-```ip
 http://54.169.203.159/
-```
+
